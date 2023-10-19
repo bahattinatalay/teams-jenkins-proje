@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo ' Reinvent Yourself'
-                sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile teams-project'
+                sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile second update'
             }
         }
     }
