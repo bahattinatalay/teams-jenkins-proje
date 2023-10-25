@@ -33,3 +33,5 @@ initialpasswd.txt
 terraform.rc
 
 .terraform.lock.hcl
+
+.gitignore
